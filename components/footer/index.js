@@ -6,7 +6,7 @@ import styles from "./styles.module.css";
 export default function Footer() {
   return (
     <footer className={styles.footer}>
-      Made with ❤️ by&nbsp;
+      © 2023 - Made by&nbsp;
       <Link href="https://www.kivanc.uk" target="_blank">
         Kivanc
       </Link>

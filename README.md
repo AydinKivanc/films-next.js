@@ -1,3 +1,18 @@
+![films](https://github.com/AydinKivanc/films-next.js/assets/63602100/a99dcea5-13a1-40c5-b05c-6d34ed5d62db)
+
+# Next.js v13
+
+Static & Dinamic Route
+Route Grouping
+Layout
+Loading
+Error
+Not-found
+Server & Client Side Rendering
+Static & Dinamic Rendering
+Parallel Data Fetching
+Sequential Data Fetching
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
