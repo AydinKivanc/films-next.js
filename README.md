@@ -1,4 +1,4 @@
-![films](https://github.com/AydinKivanc/films-next.js/assets/63602100/a99dcea5-13a1-40c5-b05c-6d34ed5d62db)
+[![films](https://github.com/AydinKivanc/films-next.js/assets/63602100/a99dcea5-13a1-40c5-b05c-6d34ed5d62db)](https://github.com/AydinKivanc/films-next.js/assets/63602100/b2f5bbc8-7e89-4b1e-b1fc-1fe2ab76d89a)
 
 # Next.js v13
 
