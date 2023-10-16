@@ -3,14 +3,17 @@
 # Next.js v13
 
 Static & Dinamic Route
+
 Route Grouping
-Layout
-Loading
-Error
-Not-found
+
+Layout - Loading - Error - NotFound
+
 Server & Client Side Rendering
+
 Static & Dinamic Rendering
+
 Parallel Data Fetching
+
 Sequential Data Fetching
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
